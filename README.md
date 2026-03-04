@@ -43,10 +43,10 @@ I'm a Computer Science Engineering student passionate about software development
 ![LeetCode Stats](https://leetcode.card.workers.dev/?username=arsath__21&theme=dark)
 
 ## 🔗 Connect with Me
-- [GitHub](https://github.com/muhammedArsat)
+- [GitHub](https://github.com/arsathdev)
 - [LeetCode](https://leetcode.com/arsath__21)
 - [LinkedIn](https://www.linkedin.com/in/www.linkedin.com/in/muhammedarsath-c-n-62a49625a) 
-- [Portfolio](https://ars.netlify.app) 
+- [Portfolio](https://arsath.netlify.app) 
 
 ---
 
